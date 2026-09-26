@@ -1,0 +1,16 @@
+# Byte-code
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Virtual machines
+*.iml
+.idea/
+out/
+bin/
+build/
+.vscode/
+.DS_Store
