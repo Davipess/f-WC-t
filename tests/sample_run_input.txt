@@ -1,0 +1,25 @@
+login david 1234
+info DI-0-M1
+best DI MALE
+review DI-0-M1 5 Flawless and always clean
+info DI-0-M1
+review DI-0-M1 4 Attempted duplicate review in same week
+contest
+register rui STUDENT 1234 Rui Silva
+login rui 1234
+alert DI-0-M1 CLEANING Floor 0 cleaning in progress
+info DI-0-M1
+confirm DI-0-M1
+login david 1234
+confirm DI-0-M1
+info DI-0-M1
+best DI MALE
+login admin admin
+reopen DI-0-M1
+info DI-0-M1
+advancecontest
+contest
+login rui 1234
+review DI-0-M1 5 Week 2 review is now allowed
+info DI-0-M1
+exit

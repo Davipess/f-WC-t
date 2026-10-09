@@ -1,0 +1,118 @@
+﻿===========================================================
+        fWCt - NOVA FCT BATHROOM MANAGEMENT SYSTEM        
+===========================================================
+Type 'help' to consult commands or 'best' to search.
+fWCt> Logged in as David Figueiredo (Student).
+fWCt> ===========================================================
+[DI-0-M1] Departamento de Informatica - Floor 0 (Atrio de Entrada)
+===========================================================
+  Type:        MALE
+  Status:      Available
+  Rating:      5/5 (1 review)
+  Alerts:      No active alerts
+  Latest reviews:
+    - David Figueiredo (5/5): "Excellent and very clean."
+===========================================================
+fWCt> ===========================================================
+Available bathrooms in Departamento de Informatica:
+===========================================================
+  #1 [DI-0-M1] Atrio de Entrada [MALE] - 5/5 (1 review) (Best choice)
+  #2 [DI-0-M2] Corredor dos Laboratorios [MALE] - 4/5 (1 review)
+  #3 [DI-1-U] Ala dos Gabinetes [UNISEX] - No reviews yet
+===========================================================
+BEST OPTION: DI-0-M1 [MALE]
+===========================================================
+  Location:    Departamento de Informatica, Floor 0 (Atrio de Entrada)
+  Status:      Available
+  Rating:      5/5 (1 review)
+  Alerts:      No active alerts
+===========================================================
+fWCt> Error: You have already reviewed this bathroom in current contest week (Week 1).
+fWCt> ===========================================================
+[DI-0-M1] Departamento de Informatica - Floor 0 (Atrio de Entrada)
+===========================================================
+  Type:        MALE
+  Status:      Available
+  Rating:      5/5 (1 review)
+  Alerts:      No active alerts
+  Latest reviews:
+    - David Figueiredo (5/5): "Excellent and very clean."
+===========================================================
+fWCt> Error: You have already reviewed this bathroom in current contest week (Week 1).
+fWCt> Weekly Contest: Week #1
+  #1 DI-0-M1   (Building DI (Atrio de Entrada)) - 5/5 (1 review)
+  #2 VII-0-M   (Building VII (Atrio Principal)) - 4/5 (1 review)
+  #3 DI-0-M2   (Building DI (Corredor dos Laboratorios)) - 4/5 (1 review)
+fWCt> User 'rui' (Rui Silva) registered successfully.
+fWCt> Logged in as Rui Silva (Student).
+fWCt> Alert created for 'DI-0-M1' (Pending: needs 1 more confirmation to lock bathroom).
+fWCt> ===========================================================
+[DI-0-M1] Departamento de Informatica - Floor 0 (Atrio de Entrada)
+===========================================================
+  Type:        MALE
+  Status:      Available
+  Rating:      5/5 (1 review)
+  Active alerts:
+    - Floor 0 cleaning in progress (Pending (1/2))
+  Latest reviews:
+    - David Figueiredo (5/5): "Excellent and very clean."
+===========================================================
+fWCt> Error: You have already confirmed this alert.
+
+fWCt> Logged in as David Figueiredo (Student).
+fWCt> Alert confirmed for 'DI-0-M1' (2/2 confirmations reached. Bathroom locked).
+fWCt> ===========================================================
+[DI-0-M1] Departamento de Informatica - Floor 0 (Atrio de Entrada)
+===========================================================
+  Type:        MALE
+  Status:      Cleaning in progress
+  Rating:      5/5 (1 review)
+  Active alerts:
+    - Floor 0 cleaning in progress (Confirmed (2/2))
+  Latest reviews:
+    - David Figueiredo (5/5): "Excellent and very clean."
+===========================================================
+fWCt> ===========================================================
+Available bathrooms in Departamento de Informatica:
+===========================================================
+  #1 [DI-0-M2] Corredor dos Laboratorios [MALE] - 4/5 (1 review) (Best choice)
+  #2 [DI-1-U] Ala dos Gabinetes [UNISEX] - No reviews yet
+===========================================================
+BEST OPTION: DI-0-M2 [MALE]
+===========================================================
+  Location:    Departamento de Informatica, Floor 0 (Corredor dos Laboratorios)
+  Status:      Available
+  Rating:      4/5 (1 review)
+  Alerts:      No active alerts
+===========================================================
+fWCt> Logged in as Campus Facilities Admin (Administrator).
+fWCt> Alert resolved for 'DI-0-M1'! Bathroom reopened and available.
+fWCt> ===========================================================
+[DI-0-M1] Departamento de Informatica - Floor 0 (Atrio de Entrada)
+===========================================================
+  Type:        MALE
+  Status:      Available
+  Rating:      5/5 (1 review)
+  Alerts:      No active alerts
+  Latest reviews:
+    - David Figueiredo (5/5): "Excellent and very clean."
+===========================================================
+fWCt> Contest advanced to Week #2. New reviews unlocked!
+fWCt> Weekly Contest: Week #2
+  #1 DI-0-M1   (Building DI (Atrio de Entrada)) - 5/5 (1 review)
+  #2 VII-0-M   (Building VII (Atrio Principal)) - 4/5 (1 review)
+  #3 DI-0-M2   (Building DI (Corredor dos Laboratorios)) - 4/5 (1 review)
+fWCt> Logged in as Rui Silva (Student).
+fWCt> Review registered successfully for bathroom 'DI-0-M1'.
+fWCt> ===========================================================
+[DI-0-M1] Departamento de Informatica - Floor 0 (Atrio de Entrada)
+===========================================================
+  Type:        MALE
+  Status:      Available
+  Rating:      5/5 (2 reviews)
+  Alerts:      No active alerts
+  Latest reviews:
+    - David Figueiredo (5/5): "Excellent and very clean."
+    - Rui Silva (5/5): "Week 2 review is now allowed"
+===========================================================
+fWCt> Thank you for using fWCt. See you next time!
